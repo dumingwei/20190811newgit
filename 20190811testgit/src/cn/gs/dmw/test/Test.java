@@ -7,4 +7,5 @@ public interface Test {
 	void m4();
 	void m5();
 	void m6();
+	void conflict02();
 }
